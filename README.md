@@ -19,5 +19,5 @@ This component displays a **div** with the task of the todo.
 Each **Todo** component has two buttons - Edit and Remove. When _Edit_ button clicked, displays a form with the task of the todo as an input and button to submit the form.
 
 ![Todo-list](./public/todoApp1.png)
-![Todo-list](./public/todoApp-edit.png)
-![Todo-list](./public/todoApp.png)
+![Todo-list](./public/todoApp2.png)
+![Todo-list](./public/todoApp3.png)
